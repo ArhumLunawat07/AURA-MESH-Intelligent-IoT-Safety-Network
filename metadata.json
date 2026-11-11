@@ -1,0 +1,6 @@
+{
+  "name": "Aura Mesh",
+  "description": "Intelligent offline-first IoT safety infrastructure for campuses and walkways with mesh coordination, adaptive lighting, and SOS response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
